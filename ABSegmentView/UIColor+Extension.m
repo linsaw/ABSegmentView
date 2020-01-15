@@ -56,7 +56,6 @@
 + (UIColor *)colorWithHexString:(NSString *)color
 {
     return [self colorWithHexString:color alpha:1.0f];
-    //添加了一行注释
 }
 
 @end
