@@ -65,4 +65,5 @@ typedef void(^TitleBtnOnClickBlock)(NSString *title, NSInteger index);
  */
 - (void)hideBaggeOnItemIndex:(NSInteger)index;
 
+
 @end
